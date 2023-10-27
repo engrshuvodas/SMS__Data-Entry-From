@@ -1,0 +1,24 @@
+
+a{
+    text-decoration: none !important;
+}
+
+.subjects{
+    width: 500px;
+    height: 90px;
+    background: rgb(200, 235, 248);
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.subjects h1{
+    font-size: 20px;
+    font-weight: 400;
+    color: #605f5f;
+    padding: 20px 0px 0px 25px;
+}
+.subjects p{
+    font-size: 15px;
+    font-weight: 400;
+    color: #000000;
+    padding-left: 25px;
+}
